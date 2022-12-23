@@ -1,4 +1,4 @@
-# SecondApp
+# Editable Textarea That Supports Syntax-Highlighted Code with Angular and Prism.js
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
